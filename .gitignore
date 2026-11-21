@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python environments
+myenv/
+myvenv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+tatus --short
+command.txt
+git_commands.txt
+
+# IDE
+.vscode/
